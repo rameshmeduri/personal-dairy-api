@@ -17,7 +17,7 @@
     "format": "prettier --write \"src/**/*.{jsx,js,css,json}\""
   },
   "dependencies": {
-    "bcrypt": "^3.0.2",
+    "bcrypt": "^5.0.0",
     "body-parser": "^1.18.3",
     "cors": "^2.8.5",
     "cuid": "^2.1.4",
